@@ -1,0 +1,194 @@
+[OVERVIEW]
+Who is Yashodeep Hundiwale?
+Summary:
+Generative AI | Langchain | Large Language Models LLM | Agentic
+Framework (CrewAI, LangGraph, AutoGen) | AWS | NLP | Azure.
+Results-driven AI/ML Engineer, developing innovative solutions.
+Recognized for excellence in execution and client impact. Currently
+contributing to leverage Python and Generative AI technologies.
+Proven expertise in Prompt Engineering, optimizing Chatbot
+responses, and enhancing user experiences. Skilled in PostgreSQL
+for efficient data management and storage, with proficiency in
+deploying applications as Azure Functions.
+
+[EXPERIENCE]
+Experience of Yashodeep Hundiwale:
+
+GirlScript Summer of Code
+Contributor
+July 2025 - October 2025 (4 months)
+Contributed to multiple open-source web projects under GSSoC 2025. Worked
+on feature implementation, bug fixes, and documentation improvements.
+Collaborated with maintainers and fellow contributors using Git, GitHub, and
+best coding practices. Strengthened my Backend skills in Python, FastApi,
+Django, and API integration through real-world projects.
+
+[EDUCATION]
+Education of Yashodeep Hundiwale:
+
+Savitribai Phule Pune University
+Bachelor of Engineering - BE, Artificial Intelligence · (September
+2024 - September 2028)
+
+Fergusson College, Pune 
+Higher Secondary Education , Science · (July 2022 - April 2024)
+
+[CONTACT DETAILS]
+Contact details of Yashodeep Hundiwale:
+
+Address -  Matoshree Niwas. Mamta Nagar, old sangvi, pune - 27
+Phone Number - 8605060204 (Mobile)
+Email - yashodeephundiwale@gmail.com
+linkedin - https://www.linkedin.com/in/yashodeep-hundiwale-609029280/ (LinkedIn)
+twitter - https://x.com/Yashodeep_2006
+instagram - https://www.instagram.com/yashodeep.me/
+
+[LANGUAGES]
+Languages Known of Yashodeep Hundiwale:
+
+Hindi (Full Professional)
+Marathi (Full Professional)
+English (Professional Working)
+
+[CERTIFICATIONS]
+Certifications of Yashodeep Hundiwale:
+Oracle Cloud Infrastructure 2025
+Certified Data Science Professional 
+Oracle Cloud Infrastructure 2025
+Certified Generative AI Professional
+5-Day AI Agents Intensive Course
+with Google
+Oracle Cloud Application Foundation
+Certified Implementation Specialist
+The Ultimate Job Ready Data
+Science Course
+Honors-Awards:
+Oracle Certified Data Science
+Professional 202
+
+
+[SKILLS]
+Skills of Yashodeep Hundiwale:
+Languages: Python, C, HTML, CSS
+Databases: MySQL, PostgreSQL, MongoDB, VectorDB (FAISS, Chroma, DataStax Astra, PineCone)
+Backend: FastAPI, Flask, RESTful APIs
+Frameworks: LangChain, LangGraph, Crewai, AutoGen, Langflow, LlamaIndex, Streamlit, Flask, FastAPI,
+Hugging Face, n8n, Ollama, Django
+AI Technologies: Open-source and paid LLM models-Llama, Mistral, OpenAI, Google Gemini Pro
+DeepSeek, Ollama
+Cloud Technologies: Docker, Hugging Face Spaces, GitHub, MLOPS
+Technical Skills: Python, Prompt Engineering, NLP, Generative AI, Agentic AI Workflows, LLM
+
+[EXPERIENCE]
+Experience of Yashodeep Hundiwale:
+AI ENGINEER | AEKOVERA | FEBRUARY 2026 – PRESENT
+· Designed and deployed an "SEO Automation AI Agent" to build a dedicated SEO funnel for CPG founders and
+20+ global suppliers.
+· Architected a multi-agent system using frameworks like CrewAI and LangGraph, leveraging RAG and a suite of
+LLMs (GPT-4o, Llama models) for high-value SEO automation (content generation, keyword research, and
+on-page optimization).
+· Optimized agent performance and user experience through Prompt Engineering (zero-shot, one-shot, &
+few-shot prompting) to ensure accuracy and relevance of generated content.
+· Streamlined deployment using AWS (EC2) for scalability and utilized PostgreSQL for efficient data storage and
+DataStax Astra DB for retrieval.
+
+AI/ML INTERN | AI MUMIN LABS | OCTOBER 2025 – JANUARY 2026
+· Successfully completed 5 out of 5 assigned Data Science/Machine Learning projects during the 3-month
+internship, demonstrating proficiency in Python and Machine Learning.
+· Applied Natural Language Processing (NLP) and Generative AI techniques in 2 projects, utilizing tools like
+LangChain and OpenAI.
+· Developed machine learning models, implementing algorithms like XGBoost, Random Forest, Logistic
+Regression, and KNN.
+
+
+[EDUCATION]
+Education of Yashodeep Hundiwale:
+Bachelor of Engineering in Computer Engineering | Genba Sopanrao Moze College of Engineering, Pune | 2024 –
+Present
+HSC in Science | Fergusson College, Pune | 2022 – 2024
+
+
+[SUMMARY AND PROFILE]
+Summary of Yashodeep Hundiwale:
+Passionate AI/ML Engineer with extensive experience architecting multi-agent systems and Agentic AI Workflows
+using LLMs like GPT-4o and Llama. Expert in building high-impact automation workflows with CrewAI and
+LangGraph to drive significant development efficiency and digital engagement. Led Generative AI Projects.
+
+ABOUT yashodeep hundiwale:
+I am a Computer Science student passionate about Artificial Intelligence, Data Science, and intelligent automation systems with extensive experience architecting multi-agent systems and Agentic AI Workflows using LLMs like GPT-4o and Llama. Expert in building high-impact RAG Systems to drive significant development efficiency and Accuracy. Led Generative AI Projects.
+
+
+Profile:
+AI Engineer & Data Science
+Education:
+Pursuing Bachelor of Engineering
+Databases:
+MySQL, PostgreSQL, MongoDB, VectorDB (FAISS, Chroma, DataStax Astra, PineCone)
+Backend:
+Python, FastAPI, Flask, RESTful APIs, Django
+Language:
+Marathi, English, Hindi
+Interest:
+Coding, Reading, Exploring New Technologies
+
+
+[TOP 3 PROJECTS]
+TOP 3 PROJECTS made by Yashodeep Hundiwale:
+The top 3 projects of yashodeep hundiwale are ChatGPT Style AI Chatbot, DBMA - Database Management Agent, and RAGify Docs - A Developers Tool.
+
+First project: ChatGPT Style AI Chatbot
+A secure, multi-user AI chatbot built with LangGraph. Features include user authentication, persistent chat history, intelligent tool usage, and complete data isolation between users.
+Live Demo: https://chat-gpt-bot.streamlit.app/
+Github link: https://github.com/codewithyasho/ChatGPT-Style-AI-Chatbot
+
+Second project: DBMA - Database Management Agent
+Database Management Agent is an intelligent Streamlit-based application that allows users to interact with SQLite databases using natural language.
+live Demo: https://dbma-agent.streamlit.app/
+Github link: https://github.com/codewithyasho/DBMA-Database-Management-Agent
+
+Third project: RAGify Docs - A Developers Tool
+Transform any documentation into an intelligent, queryable knowledge base powered by AI and RAG. Reading 100+ pages line-by-line to find answers is inefficient and frustrating. RAGify Docs is a tool that allows developers to upload documentation and instantly query it using natural language, saving time and improving productivity.
+Live Demo: https://ragify-docs.streamlit.app/
+Github link: https://github.com/codewithyasho/RAGify-Docs
+
+
+[REST PROJECTS]
+SOME OTHER PROJECTS by Yashodeep Hundiwale:
+4. 
+Agentic RAG with Voice
+A full Agentic RAG system built with LangChain, FAISS, Streamlit, and voice support. Production-style architecture. Real Agentic RAG, not hardcoded logic. Voice input and output for a seamless user experience.
+Github link: https://github.com/codewithyasho/AGENTIC_RAG_PIPELINE
+
+5. 
+Handwritten PDF Notes Q&A System
+A local, offline document question-answering system that extracts text from scanned/handwritten PDFs using OCR and answers questions using a Retrieval-Augmented Generation (RAG) pipeline powered by local LLMs via Ollama.
+Github link: https://github.com/codewithyasho/OCR_RAG
+
+6. 
+Stock Market Trading Agent
+A production-ready AI agent built with LangGraph that helps users make informed stock trading decisions with Human-in-the-Loop (HITL) confirmations for all transactions.
+live demo: https://share-agent.streamlit.app/
+github link: https://github.com/codewithyasho/LANGGRAPH-TUTORIALS/tree/main/stock_market_agent
+
+7. 
+Resume Analyzer
+A resume analyzer built with LangGraph that can parse and analyze resumes to extract key information and provide insights for hiring managers.
+live demo: https://resume-0.streamlit.app/
+github link: https://github.com/codewithyasho/LANGGRAPH-TUTORIALS/blob/main/Resume_analyzer/app.py
+
+8. 
+AIVerse - Multi-AI Agent Platform
+Get intelligent responses from 6 different AI models simultaneously! Compare perspectives from DeepSeek, OpenAI GPT, Google Gemini, Meta Llama and Alibaba Qwen - all in one unified interface.
+live demo: https://aiverse-ai.streamlit.app/
+github link: https://github.com/codewithyasho/AiVERSE/
+
+9. 
+YouTube Video Summarizer
+Get instant summaries and ask questions about any YouTube video content using advanced RAG (Retrieval Augmented Generation) technology.
+live demo: https://yt-rag.streamlit.app/
+github link: https://github.com/codewithyasho/yt-rag
+
+10. 
+AI-Powered Software Builder
+A Software That Builds Software. Simply describe what you want to build, and watch as the AI plans, architects, and codes your entire project structure.
+github link: https://github.com/codewithyasho/Software_Agent
