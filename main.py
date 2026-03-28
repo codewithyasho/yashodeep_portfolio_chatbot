@@ -12,9 +12,11 @@ load_dotenv()
 
 
 def main():
-    embeddings = HuggingFaceEmbeddings(
-        model_name="BAAI/bge-small-en-v1.5")
 
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2")
+
+    print("loading existing FAISS index...")
     vectorstore = FAISS.load_local(
         "faiss_index", embeddings, allow_dangerous_deserialization=True)
 
