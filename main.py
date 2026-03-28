@@ -16,9 +16,23 @@ def main():
     embeddings = HuggingFaceEmbeddings(
         model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-    print("loading existing FAISS index...")
-    vectorstore = FAISS.load_local(
-        "faiss_index", embeddings, allow_dangerous_deserialization=True)
+    try:
+        print("loading existing FAISS index...")
+        vectorstore = FAISS.load_local(
+            "faiss_index", embeddings, allow_dangerous_deserialization=True)
+    except Exception as e:
+        print("No existing FAISS index found. Creating a new one...")
+        # Load and split documents
+        loader = TextLoader("data.txt")
+        documents = loader.load()
+
+        text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=500, chunk_overlap=100)
+        splitted_docs = text_splitter.split_documents(documents)
+
+        # Create and save FAISS index
+        vectorstore = FAISS.from_documents(splitted_docs, embeddings)
+        vectorstore.save_local("faiss_index")
 
     retriever = vectorstore.as_retriever(
         search_type="mmr",

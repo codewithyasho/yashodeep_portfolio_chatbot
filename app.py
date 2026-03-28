@@ -31,10 +31,12 @@ def home():
     return {"message": "Welcome to Yashodeep's Personal Chatbot API! Use the /chat endpoint to interact with the chatbot."}
 
 
+rag_chain = main()
+
+
 @app.post("/chat")
 async def chat(query_request: QueryRequest):
     try:
-        rag_chain = main()
         response = rag_chain.invoke({
             "input": query_request.query
         })
